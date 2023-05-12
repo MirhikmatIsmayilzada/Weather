@@ -33,6 +33,9 @@ body {
   color: #9c6644;
   font-size: 30px;
 }
+#weather .box .data #btn i {
+  cursor: pointer;
+}
 #weather .box .data ul {
   width: 100%;
   height: 80px;
