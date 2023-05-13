@@ -11,6 +11,7 @@ body {
   border: 1px solid #47bfe3;
   border-radius: 20px;
   height: 400px;
+  width: 265px;
 }
 #weather .box .data {
   color: #ffffff;
